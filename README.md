@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="XViper Launcher" width="100%">
+<img src="assets/banner.jpg" alt="XViper Launcher" width="100%">
 
 # ╳ XVIPER LAUNCHER
 
