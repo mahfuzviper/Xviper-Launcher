@@ -233,15 +233,15 @@ Official release verification.
 
 ### Launcher
 
-`YOUR_SCREENSHOT_HERE`
+`https://freeimage.host/i/nJjL2OQ`
 
 ### Minecraft Management
 
-`YOUR_SCREENSHOT_HERE`
+`https://freeimage.host/i/nJjQDFe`
 
 ### Settings
 
-`YOUR_SCREENSHOT_HERE`
+`https://freeimage.host/i/nJjt3b4`
 
 </div>
 
