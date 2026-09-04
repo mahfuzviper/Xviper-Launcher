@@ -132,6 +132,10 @@ A completely custom launcher identity.
 
 <img src="assets/offline skins.png" alt="XViper Settings" width="900">
 
+<br><br>
+
+<img src="assets/modmanu.png" alt="XViper Settings" width="900">
+
 </div>
 
 ---
