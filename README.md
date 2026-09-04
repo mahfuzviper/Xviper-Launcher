@@ -126,7 +126,7 @@ A completely custom launcher identity.
 
 <br><br>
 
-<img src="assets/gmodpacks.png" alt="XViper Game Management" width="900">
+<img src="assets/modpacks.png" alt="XViper Game Management" width="900">
 
 <br><br>
 
