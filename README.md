@@ -233,7 +233,8 @@ Official release verification.
 
 ### Launcher
 
-`https://freeimage.host/i/nJjL2OQ`
+`<img width="1366" height="738" alt="Screenshot 2026-09-04 160321" src="https://github.com/user-attachments/assets/afb4d9c2-2c5d-4bac-9548-0640f41034f8" />
+`
 
 ### Minecraft Management
 
