@@ -122,15 +122,15 @@ A completely custom launcher identity.
 
 <div align="center">
 
-<img src="assets/dashboard.png" alt="XViper Dashboard" width="900">
+<img src="assets/home.png" alt="XViper Dashboard" width="900">
 
 <br><br>
 
-<img src="assets/game-management.png" alt="XViper Game Management" width="900">
+<img src="assets/gmodpacks.png" alt="XViper Game Management" width="900">
 
 <br><br>
 
-<img src="assets/settings.png" alt="XViper Settings" width="900">
+<img src="assets/offline skins.png" alt="XViper Settings" width="900">
 
 </div>
 
