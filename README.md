@@ -2,106 +2,176 @@
 
 # 🐍 XVIPER LAUNCHER
 
-### **Fast. Powerful. Unleashed.**
+### **THE NEXT LEVEL MINECRAFT EXPERIENCE**
 
-A next-generation Minecraft launcher built for performance, customization and an unforgettable gaming experience.
+**Fast • Powerful • Modern • Secure**
 
 <br>
 
 <a href="../../releases/latest">
-  <img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20XVIPER-00D9FF?style=for-the-badge&logo=windows&logoColor=white" alt="Download XViper">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20XVIPER-00E5FF?style=for-the-badge&logo=windows&logoColor=000000" alt="Download XViper Launcher">
 </a>
-&nbsp;
+
+  
+
 <a href="https://discord.gg/sAcbRD7Hu7">
-  <img src="https://img.shields.io/badge/💬%20JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord">
+<img src="https://img.shields.io/badge/💬%20JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=FFFFFF" alt="Join XViper Discord">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/VERSION-1.0.0-111111?style=flat-square">
-<img src="https://img.shields.io/badge/PLATFORM-WINDOWS-111111?style=flat-square&logo=windows">
-<img src="https://img.shields.io/badge/MINECRAFT-SUPPORTED-111111?style=flat-square">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-111111?style=flat-square">
+<img src="https://img.shields.io/github/v/release/YOUR_GITHUB_USERNAME/XViperLauncher?style=flat-square&label=Latest%20Version&color=00E5FF">
+<img src="https://img.shields.io/badge/Windows-10%2F11-111111?style=flat-square&logo=windows">
+<img src="https://img.shields.io/badge/Minecraft-Java%20Edition-111111?style=flat-square">
+<img src="https://img.shields.io/badge/Status-Active-111111?style=flat-square">
 
 </div>
 
 ---
 
-## ⚡ About XViper
+# ⚡ Welcome to XViper
 
-**XViper Launcher** is a modern Minecraft launcher focused on **speed, simplicity, performance and customization**.
+**XViper Launcher** is a modern Minecraft launcher built around one simple goal:
 
-Built to give Minecraft players a clean and powerful way to manage their game, versions, profiles and configurations — without unnecessary complexity.
+> ### **Make Minecraft easier, faster and better.**
 
-> **One launcher. Your Minecraft. Your rules.**
+Manage your Minecraft versions, profiles, instances and configurations through a clean, powerful and highly customized experience.
+
+Whether you're a casual player or a Minecraft enthusiast, **XViper is built to keep the experience simple while giving you powerful control.**
 
 ---
 
 <div align="center">
 
-## 🐍 THE VIPER EXPERIENCE
+## 🐍 XVIPER
+
+### **YOUR GAME. YOUR SETTINGS. YOUR EXPERIENCE.**
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║                 X V I P E R                          ║
-║                                                      ║
-║          FAST  •  POWERFUL  •  MODERN                ║
-║                                                      ║
-║             UNLEASH YOUR MINECRAFT                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║                 X V I P E R                      ║
+║                                                  ║
+║       FAST  •  POWERFUL  •  MODERN               ║
+║                                                  ║
+║             PLAY WITHOUT LIMITS                  ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## ✨ Features
+# 🚀 DOWNLOAD XVIPER
+
+<div align="center">
+
+## Ready to play?
+
+### Download the latest official release.
+
+<br>
+
+<a href="../../releases/latest">
+<img src="https://img.shields.io/badge/🔥%20DOWNLOAD%20LATEST%20RELEASE-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Download Latest Release">
+</a>
+
+<br><br>
+
+**Only download XViper from the official release page.**
+
+</div>
+
+### 📦 Installation
+
+```text
+1. Download XViper from the official Release page
+2. Download the latest installer
+3. Run the installer
+4. Complete the installation
+5. Launch XViper
+6. Configure your Minecraft profile
+7. Start playing
+```
+
+---
+
+# 🛡️ OFFICIAL & SAFE DOWNLOAD
+
+Your security matters.
+
+For the safest experience:
+
+* ✅ Download only from the official GitHub Release
+* ✅ Check the release version before installing
+* ✅ Verify the SHA-256 checksum when provided
+* ✅ Do not download modified copies from random websites
+* ✅ Do not run unofficial builds claiming to be XViper
+* ✅ Report suspicious or modified builds to the project team
+
+### 🔐 Release Verification
+
+Official releases can include a SHA-256 checksum:
+
+```text
+SHA-256:
+<RELEASE_HASH_HERE>
+```
+
+Windows PowerShell:
+
+```powershell
+Get-FileHash .\XViperLauncher.exe -Algorithm SHA256
+```
+
+Compare the result with the checksum published on the official release.
+
+> **A matching checksum confirms that the downloaded file matches the published release file.**
+
+---
+
+# ✨ WHY XVIPER?
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🚀 Performance
+## ⚡
 
-* ⚡ Fast startup
-* 🎮 Smooth game launching
-* 🧠 Optimized resource usage
-* 📈 Performance-focused architecture
+### FAST
 
-</td>
-<td width="50%">
-
-### 🎨 Experience
-
-* 🌑 Premium dark interface
-* ✨ Custom XViper branding
-* 🎯 Clean navigation
-* 🖥️ Modern launcher UI
+Quick and smooth launcher experience.
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td align="center" width="25%">
 
-### 🧩 Minecraft
+## 🎨
 
-* 📦 Version management
-* 🔧 Instance configuration
-* 🎮 Minecraft profile management
-* 🛠️ Advanced launch settings
+### MODERN
+
+Clean and premium interface.
 
 </td>
-<td width="50%">
 
-### 🔄 System
+<td align="center" width="25%">
 
-* 🔄 Launcher updates
-* 📥 Easy installation
-* 🛡️ Secure authentication
-* 📊 System & game information
+## 🧩
+
+### POWERFUL
+
+Flexible Minecraft management.
+
+</td>
+
+<td align="center" width="25%">
+
+## 🛡️
+
+### TRUSTED
+
+Official release verification.
 
 </td>
 </tr>
@@ -109,248 +179,253 @@ Built to give Minecraft players a clean and powerful way to manage their game, v
 
 ---
 
-## 🎮 Minecraft Support
+# 🎮 FEATURES
 
-XViper is designed around the Minecraft experience.
+### 🚀 Performance
 
-| Feature                | Status |
-| :--------------------- | :----: |
-| Minecraft Java Edition |    ✅   |
-| Version Management     |    ✅   |
-| Profiles               |    ✅   |
-| Instance Management    |    ✅   |
-| Mod Support            |    ✅   |
-| Custom Configurations  |    ✅   |
-| Automatic Updates      |    ✅   |
+* ⚡ Fast launcher startup
+* ⚡ Optimized game launching
+* 🧠 Efficient resource management
+* 📈 Performance-focused architecture
 
----
+### 🎨 Interface
 
-## 🖥️ System Requirements
+* 🌑 Premium dark UI
+* 🐍 Custom XViper branding
+* ✨ Smooth modern design
+* 🎯 Simple navigation
+* 🖥️ Desktop-focused experience
 
-### Minimum
+### 🧩 Minecraft
 
-| Component | Requirement                           |
-| :-------- | :------------------------------------ |
-| OS        | Windows 10 / 11                       |
-| RAM       | 4 GB+                                 |
-| Storage   | 1 GB+ available                       |
-| Internet  | Required for downloads/authentication |
+* 📦 Minecraft version management
+* 👤 Profile management
+* 🛠️ Instance configuration
+* 🔧 Custom launch settings
+* 🎮 Minecraft Java Edition support
 
-### Recommended
+### 🔄 Updates
 
-| Component | Recommendation         |
-| :-------- | :--------------------- |
-| OS        | Windows 10 / 11 64-bit |
-| RAM       | 8 GB+                  |
-| Storage   | SSD                    |
-| Internet  | Stable broadband       |
-
-> Minecraft itself may require additional resources depending on version, mods and settings.
+* 🔄 Launcher update support
+* 📦 Versioned releases
+* 📝 Release notes
+* 🔐 Release verification
 
 ---
 
-## 📥 Download
+# 🖥️ SYSTEM REQUIREMENTS
+
+| Component | Minimum      | Recommended              |
+| --------- | ------------ | ------------------------ |
+| OS        | Windows 10   | Windows 10/11 64-bit     |
+| RAM       | 4 GB         | 8 GB+                    |
+| Storage   | 1 GB         | SSD                      |
+| Internet  | Required     | Stable connection        |
+| Minecraft | Java Edition | Latest supported version |
+
+> Minecraft itself may require additional RAM, storage and GPU resources depending on the version, mods and graphics settings.
+
+---
+
+# 📸 XVIPER IN ACTION
 
 <div align="center">
 
-### Get XViper Launcher
+### Launcher
 
-<a href="../../releases/latest">
-<img src="https://img.shields.io/badge/⬇%20LATEST%20RELEASE-00D9FF?style=for-the-badge" alt="Latest Release">
-</a>
+`YOUR_SCREENSHOT_HERE`
 
-<br><br>
+### Minecraft Management
 
-**Always download XViper from the official release page.**
+`YOUR_SCREENSHOT_HERE`
+
+### Settings
+
+`YOUR_SCREENSHOT_HERE`
 
 </div>
 
-### Installation
-
-```text
-1. Download the latest XViper release
-2. Run the installer
-3. Complete the installation
-4. Open XViper Launcher
-5. Configure your Minecraft profile
-6. Launch Minecraft
-```
-
 ---
 
-## 💬 Join the Community
+# 💬 JOIN THE XVIPER COMMUNITY
 
 <div align="center">
 
-# 🐍 XViper Community
+## 🐍 XVIPER DISCORD
 
-Connect with other players, get support, report bugs, suggest features and stay updated with XViper.
+Get updates, support, announcements, bug reports and community news.
 
 <br>
 
 <a href="https://discord.gg/sAcbRD7Hu7">
-<img src="https://img.shields.io/badge/💬%20JOIN%20THE%20XVIPER%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join XViper Discord">
+<img src="https://img.shields.io/badge/💬%20JOIN%20XVIPER%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join XViper Discord">
 </a>
 
 <br><br>
 
-**Community • Support • Updates • Announcements**
+**COMMUNITY • SUPPORT • UPDATES • ANNOUNCEMENTS**
 
 </div>
 
 ---
 
-## 📸 Screenshots
+# 🗺️ ROADMAP
 
-<div align="center">
-
-> Screenshots coming soon.
-
-</div>
-
----
-
-## 🗺️ Roadmap
-
-### ✅ Completed
+### ✅ Available
 
 * [x] XViper branding
-* [x] Custom launcher UI
+* [x] Custom launcher interface
 * [x] Minecraft launching
 * [x] Version management
-* [x] Settings system
-* [x] Modern interface
+* [x] Profile system
+* [x] Settings
+* [x] Release system
 
-### 🚧 In Development
+### 🚧 Currently Improving
 
-* [ ] More UI customization
 * [ ] Advanced instance management
-* [ ] Improved performance
-* [ ] More Minecraft integrations
-* [ ] Additional themes
-* [ ] Better update system
+* [ ] More customization
+* [ ] Performance improvements
+* [ ] Better update experience
+* [ ] Additional Minecraft integrations
+* [ ] More themes
 
 ### 🔮 Future
 
+* [ ] Advanced mod management
+* [ ] Cloud synchronization
 * [ ] Linux support
 * [ ] macOS support
-* [ ] Cloud synchronization
-* [ ] Advanced mod management
 * [ ] More customization
 * [ ] Community integrations
 
 ---
 
-## 🐛 Bug Reports
+# 🐛 BUG REPORTS
 
-Found a bug?
+Found something broken?
 
-Please create an **Issue** and include:
+Please open an Issue with:
 
 ```text
 XViper Version:
 Windows Version:
 Minecraft Version:
 
-What happened:
-How to reproduce:
+Problem:
+Steps to Reproduce:
 
-Additional information:
+Expected Result:
+Actual Result:
+
+Logs / Screenshots:
 ```
 
-Screenshots and logs are highly recommended.
+The more information you provide, the faster the problem can be investigated.
 
 ---
 
-## 💡 Feature Requests
+# 💡 FEATURE REQUESTS
 
-Have an idea that could make XViper better?
+Have an idea?
 
-Open an Issue and tell us:
+Tell us what you want to see in XViper.
 
-* 💡 What should be added?
-* 🎯 Why is it useful?
-* 🛠️ How should it work?
+A good feature request should explain:
 
-Great ideas may become part of a future release.
+**What?**
+What should be added?
 
----
+**Why?**
+Why would it improve XViper?
 
-## 🛡️ Security
-
-For your safety:
-
-* Download XViper only from official sources.
-* Never execute modified builds from unknown users.
-* Never share authentication credentials.
-* Report suspicious builds or security issues immediately.
-
-For security-related reports, please contact the project maintainers privately rather than publicly posting sensitive information.
+**How?**
+How do you think it should work?
 
 ---
 
-## 🔐 Source Code
+# 🔐 PRIVACY & SECURITY
 
-> **XViper Launcher is distributed as a proprietary application.**
+XViper is designed with user security in mind.
 
-The public repository contains project information and official releases where applicable.
+### We recommend:
 
-The proprietary source code, assets, branding and internal components are **not licensed for unauthorized copying, redistribution, modification or commercial use**.
+* Downloading only official releases
+* Keeping XViper updated
+* Never sharing account credentials
+* Never installing modified launcher builds
+* Reporting suspicious files or behavior
+
+For security-sensitive issues, please contact the project maintainers privately instead of publishing sensitive information publicly.
 
 ---
 
-## 👑 Credits
+# 📜 LICENSE
+
+XViper Launcher is distributed under its applicable license.
+
+Unless explicitly permitted by the license or by the project owner:
+
+* ❌ Do not redistribute proprietary builds
+* ❌ Do not claim XViper as your own
+* ❌ Do not commercially reuse XViper branding
+* ❌ Do not distribute modified official builds
+
+See the repository's license for complete terms.
+
+---
+
+# 👑 PROJECT
 
 <div align="center">
 
-### Created & Maintained By
+### XViper Launcher
+
+**Created & Maintained by**
 
 # **MahfuzViper**
 
-🐍 **XViper Launcher**
-
-Built with passion for the Minecraft community.
+🐍 Built for the Minecraft community.
 
 </div>
 
 ---
 
-## ⭐ Support XViper
+# ⭐ SUPPORT XVIPER
 
-If you enjoy using XViper:
+If you enjoy XViper:
 
-⭐ **Star the repository**
-🐛 **Report bugs**
-💡 **Suggest features**
-💬 **Join the Discord**
-📢 **Share XViper with friends**
-
-Every bit of support helps the project grow.
+⭐ Star the repository
+⬇️ Download the latest release
+💬 Join the Discord
+🐛 Report bugs
+💡 Suggest features
+📢 Share XViper with your friends
 
 ---
 
 <div align="center">
 
-<br>
-
-# 🐍 XVIPER LAUNCHER
+## 🐍 XVIPER LAUNCHER
 
 ### **FAST. POWERFUL. UNLEASHED.**
 
 <br>
 
 <a href="../../releases/latest">
-<img src="https://img.shields.io/badge/⬇%20DOWNLOAD-00D9FF?style=for-the-badge" alt="Download">
+<img src="https://img.shields.io/badge/⬇%20DOWNLOAD%20XVIPER-00E5FF?style=for-the-badge&logo=github&logoColor=black" alt="Download XViper">
 </a>
 
  
 
 <a href="https://discord.gg/sAcbRD7Hu7">
-<img src="https://img.shields.io/badge/💬%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+<img src="https://img.shields.io/badge/💬%20JOIN%20DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
 </a>
 
 <br><br>
 
-**© 2026 XViper Launcher • Made by MahfuzViper**
+**© 2026 XViper Launcher**
+
+**Made with ❤️ by MahfuzViper**
 
 </div>
