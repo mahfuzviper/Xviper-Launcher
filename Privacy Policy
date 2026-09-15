@@ -1,0 +1,129 @@
+# Viper Launcher — Privacy Policy
+
+**Last Updated:** September 15, 2026
+
+Viper Launcher is a Minecraft launcher developed by **MahfuzViper**.
+
+We respect your privacy and aim to collect only the information necessary to provide the launcher's features and services.
+
+## 1. Information We Collect
+
+Viper Launcher may access or process the following information when required by its features:
+
+* Minecraft username
+* Minecraft UUID
+* Microsoft/Minecraft authentication information
+* Minecraft profile information
+* Launcher settings and preferences
+* Minecraft instances and installations
+* Mods, resource packs, shaders, and other Minecraft files
+* Basic technical information required for troubleshooting or updates
+
+Viper Launcher does **not** collect or store your Microsoft account password.
+
+## 2. Microsoft Authentication
+
+When you sign in using a Microsoft account, authentication is handled through Microsoft's authentication services.
+
+Viper Launcher may receive the authentication information necessary to access your Minecraft account and verify ownership.
+
+Your Microsoft password is never requested directly by Viper Launcher.
+
+## 3. Local Data
+
+Most launcher data is stored locally on your computer.
+
+This may include:
+
+* Game installations
+* Launcher configuration
+* Java configuration
+* Mods
+* Resource packs
+* Shader packs
+* Screenshots
+* Cached account/session information
+* Downloaded Minecraft files
+
+This data is primarily controlled and stored by you on your own device.
+
+## 4. Online Services
+
+Viper Launcher may connect to external services when required for functionality, including:
+
+* Microsoft services
+* Xbox services
+* Minecraft services
+* GitHub
+* Mod/content hosting services
+* Viper Launcher update services
+
+These services may be used for authentication, downloading game files, checking updates, or providing optional features.
+
+Third-party services have their own privacy policies and terms.
+
+## 5. Analytics and Crash Reports
+
+Viper Launcher does not intentionally collect personal information for advertising or user profiling.
+
+If optional analytics or crash-reporting functionality is introduced, only information reasonably required to diagnose problems and improve the launcher may be collected.
+
+Any significant changes to data collection will be reflected in an updated Privacy Policy.
+
+## 6. Advertising
+
+Viper Launcher does not sell personal information to advertisers or data brokers.
+
+The launcher is not designed to create advertising profiles based on your personal information.
+
+## 7. Data Security
+
+We take reasonable measures to protect information handled by Viper Launcher.
+
+However, no software or internet service can guarantee complete security.
+
+Users are responsible for securing their own computer and Microsoft account.
+
+## 8. Third-Party Services
+
+Viper Launcher may use or interact with third-party services.
+
+Viper Launcher is not responsible for the privacy practices, security, or policies of third-party services.
+
+Users should review the applicable privacy policies of those services.
+
+## 9. Data Deletion
+
+Because most launcher data is stored locally, users can remove it by:
+
+1. Signing out of accounts.
+2. Uninstalling Viper Launcher.
+3. Removing remaining Viper Launcher data from the local device when applicable.
+
+Minecraft installations, mods, resource packs, and other user-created files may need to be deleted separately.
+
+## 10. Children's Privacy
+
+Viper Launcher is not designed to intentionally collect personal information from children.
+
+We do not knowingly collect personal information from children for advertising or profiling purposes.
+
+## 11. Changes to This Policy
+
+This Privacy Policy may be updated when Viper Launcher receives new features or changes how information is handled.
+
+The **Last Updated** date will be changed whenever this policy is updated.
+
+## 12. Contact
+
+For privacy-related questions or concerns:
+
+**Developer:** MahfuzViper
+**Project:** Viper Launcher
+**GitHub:** This repository
+
+For direct privacy requests, please open an issue in this repository or contact the developer through the official Viper Launcher support channel.
+
+---
+
+**© 2026 MahfuzViper — Viper Launcher**
